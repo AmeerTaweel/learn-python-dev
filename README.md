@@ -2,5 +2,4 @@
 
 ## Sections
 
-* [Features](features/README.md)
-* [Functional Programming in Python](/functional-programming/README.md)
+* [Python](./python/README.md)
