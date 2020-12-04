@@ -2,4 +2,4 @@
 
 ## Sections
 
-* [Python](./python/README.md)
+* [Introduction to Python](./python/README.md)
