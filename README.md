@@ -1,3 +1,6 @@
-# Python
+# Learn Python Dev
 
-* [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
+## Sections
+
+* [Features](features/README.md)
+* [Functional Programming in Python](/functional-programming/README.md)
