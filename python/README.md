@@ -9,6 +9,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 
 ## Data Structures
 
+* [Basic Data Types in Python](https://realpython.com/python-data-types/) - Tutorial.
 * [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 
 ## Functional Programming
