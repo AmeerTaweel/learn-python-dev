@@ -30,3 +30,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 ## Functional Programming
 
 * [Real Python: Functional Programming in Python](https://realpython.com/courses/functional-programming-python/) - Course.
+
+## Others
+
+* [What Is the Walrus Operator in Python?](https://medium.com/better-programming/what-is-the-walrus-operator-in-python-5846eaeb9d95) - Article.
