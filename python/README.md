@@ -30,6 +30,9 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 ## Functional Programming
 
 * [Real Python: Functional Programming in Python](https://realpython.com/courses/functional-programming-python/) - Course.
+* [How to Use `any()` in Python](https://realpython.com/any-python/) - Article.
+* [Python's `reduce()`: From Functional to Pythonic Style](https://realpython.com/python-reduce-function/) - Article.
+* [Python `filter()`](https://www.programiz.com/python-programming/methods/built-in/filter) - Article.
 
 ## Others
 
