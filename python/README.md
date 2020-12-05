@@ -25,6 +25,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/) - Article.
 * [Logging in Python](https://realpython.com/python-logging/) - Article.
 * [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/) - Article.
+* [Python pass statement](https://www.programiz.com/python-programming/pass-statement) - Article.
 
 ## Functional Programming
 
