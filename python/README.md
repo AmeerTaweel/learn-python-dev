@@ -14,7 +14,6 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [math.fsum()](https://docs.python.org/3.6/library/math.html#math.fsum) - Docs.
 * [float.as_integer_ratio()](https://docs.python.org/3.6/library/stdtypes.html#float.as_integer_ratio) - Docs.
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
-* [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 
 ## Testing and Debugging
 
@@ -37,3 +36,6 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 ## Others
 
 * [What Is the Walrus Operator in Python?](https://medium.com/better-programming/what-is-the-walrus-operator-in-python-5846eaeb9d95) - Article.
+* [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/) - Article.
+* [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
+* [Python `enumerate()`: Simplify Looping With Counters](https://realpython.com/python-enumerate/) - Article.
