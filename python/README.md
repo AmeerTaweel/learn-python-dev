@@ -10,6 +10,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 ## Data Structures
 
 * [Basic Data Types in Python](https://realpython.com/python-data-types/) - Tutorial.
+* [Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3.6/tutorial/floatingpoint.html) - Article.
 * [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 
 ## Functional Programming
