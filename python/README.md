@@ -16,6 +16,16 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
 * [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 
+## Testing and Debugging
+
+* [Invalid Syntax in Python: Common Reasons for SyntaxError](https://realpython.com/invalid-syntax-python/) - Article.
+* [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/) - Article.
+* [Understanding the Python Traceback](https://realpython.com/python-traceback/) - Article.
+* [Assert Statements in Python](https://dbader.org/blog/python-assert-tutorial) - Article.
+* [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/) - Article.
+* [Logging in Python](https://realpython.com/python-logging/) - Article.
+* [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/) - Article.
+
 ## Functional Programming
 
 * [Real Python: Functional Programming in Python](https://realpython.com/courses/functional-programming-python/) - Course.
