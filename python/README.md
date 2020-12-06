@@ -44,3 +44,4 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Eval really is dangerous](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html) - Article.
 * [How to Use `sorted()` and `sort()` in Python](https://realpython.com/python-sort/) - Article.
 * [Using the Python `zip()` Function for Parallel Iteration](https://realpython.com/python-zip-function/) - Article.
+* [Python | `os.getpid()` method](https://www.geeksforgeeks.org/python-os-getpid-method/) - Article.
