@@ -55,3 +55,5 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Using the Python `zip()` Function for Parallel Iteration](https://realpython.com/python-zip-function/) - Article.
 * [Python `next()` Function | Iterate Over in Python Using next](https://www.pythonpool.com/python-next/) - Article.
 * [pprint — Data pretty printer](https://docs.python.org/3/library/pprint.html) - Article.
+* [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/) - Article.
+* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
