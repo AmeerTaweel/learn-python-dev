@@ -40,3 +40,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/) - Article.
 * [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 * [Python `enumerate()`: Simplify Looping With Counters](https://realpython.com/python-enumerate/) - Article.
+* [Python `eval()`: Evaluate Expressions Dynamically](https://realpython.com/python-eval-function/) - Article.
+* [Eval really is dangerous](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html) - Article.
+* [How to Use `sorted()` and `sort()` in Python](https://realpython.com/python-sort/) - Article.
+* [Using the Python `zip()` Function for Parallel Iteration](https://realpython.com/python-zip-function/) - Article.
