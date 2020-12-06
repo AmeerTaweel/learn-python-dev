@@ -54,3 +54,4 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [How to Use `sorted()` and `sort()` in Python](https://realpython.com/python-sort/) - Article.
 * [Using the Python `zip()` Function for Parallel Iteration](https://realpython.com/python-zip-function/) - Article.
 * [Python `next()` Function | Iterate Over in Python Using next](https://www.pythonpool.com/python-next/) - Article.
+* [pprint — Data pretty printer](https://docs.python.org/3/library/pprint.html) - Article.
