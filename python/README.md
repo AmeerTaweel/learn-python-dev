@@ -37,6 +37,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [How to Use `any()` in Python](https://realpython.com/any-python/) - Article.
 * [Python's `reduce()`: From Functional to Pythonic Style](https://realpython.com/python-reduce-function/) - Article.
 * [Python `filter()`](https://www.programiz.com/python-programming/methods/built-in/filter) - Article.
+* [Python's `map()`: Processing Iterables Without a Loop](https://realpython.com/python-map-function/) - Article.
 
 ## Parallel Programming
 
