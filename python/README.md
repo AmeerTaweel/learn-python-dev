@@ -15,6 +15,9 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [float.as_integer_ratio()](https://docs.python.org/3.6/library/stdtypes.html#float.as_integer_ratio) - Docs.
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
 * [Variables in Python](https://realpython.com/python-variables/) - Article.
+* [namedtuple](https://pymotw.com/2/collections/namedtuple.html) - Article.
+* [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) - Article.
+* [Defaultdict in Python](https://www.geeksforgeeks.org/defaultdict-in-python/) - Article.
 
 ## Testing and Debugging
 
