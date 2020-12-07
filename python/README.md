@@ -57,3 +57,4 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [pprint — Data pretty printer](https://docs.python.org/3/library/pprint.html) - Article.
 * [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/) - Article.
 * [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
+* [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
