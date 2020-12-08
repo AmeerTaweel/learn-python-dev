@@ -11,6 +11,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 
 * [Basic Data Types in Python](https://realpython.com/python-data-types/) - Tutorial.
 * [Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3.6/tutorial/floatingpoint.html) - Article.
+* [Strings and Character Data in Python](https://realpython.com/python-strings/) - Article.
 * [math.fsum()](https://docs.python.org/3.6/library/math.html#math.fsum) - Docs.
 * [float.as_integer_ratio()](https://docs.python.org/3.6/library/stdtypes.html#float.as_integer_ratio) - Docs.
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
