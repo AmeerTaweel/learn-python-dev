@@ -15,6 +15,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [math.fsum()](https://docs.python.org/3.6/library/math.html#math.fsum) - Docs.
 * [float.as_integer_ratio()](https://docs.python.org/3.6/library/stdtypes.html#float.as_integer_ratio) - Docs.
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
+* [Python Booleans: Optimize Your Code With Truth Values](https://realpython.com/python-boolean/) - Article.
 * [Variables in Python](https://realpython.com/python-variables/) - Article.
 * [namedtuple](https://pymotw.com/2/collections/namedtuple.html) - Article.
 * [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) - Article.
