@@ -21,6 +21,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) - Article.
 * [Defaultdict in Python](https://www.geeksforgeeks.org/defaultdict-in-python/) - Article.
 * [Using the Python defaultdict Type for Handling Missing Keys](https://realpython.com/python-defaultdict/) - Article.
+* [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) - Article.
 
 ## Testing and Debugging
 
