@@ -18,6 +18,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Python Booleans: Optimize Your Code With Truth Values](https://realpython.com/python-boolean/) - Article.
 * [Variables in Python](https://realpython.com/python-variables/) - Article.
 * [namedtuple](https://pymotw.com/2/collections/namedtuple.html) - Article.
+* [Dictionaries in Python](https://realpython.com/python-dicts/) - Article.
 * [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) - Article.
 * [Defaultdict in Python](https://www.geeksforgeeks.org/defaultdict-in-python/) - Article.
 * [Using the Python defaultdict Type for Handling Missing Keys](https://realpython.com/python-defaultdict/) - Article.
