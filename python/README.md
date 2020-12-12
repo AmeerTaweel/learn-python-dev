@@ -23,6 +23,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Defaultdict in Python](https://www.geeksforgeeks.org/defaultdict-in-python/) - Article.
 * [Using the Python defaultdict Type for Handling Missing Keys](https://realpython.com/python-defaultdict/) - Article.
 * [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) - Article.
+* [Sets in Python](https://realpython.com/python-sets/) - Article.
 
 ## Testing and Debugging
 
