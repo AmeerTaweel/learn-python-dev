@@ -7,7 +7,18 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Interacting with Python](https://realpython.com/interacting-with-python/) - Tutorial.
 * [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/) - Article.
 
-## Data Structures
+## Language Essentials
+
+* [Variables in Python](https://realpython.com/python-variables/) - Article.
+* [Conditional Statements in Python](https://realpython.com/python-conditional-statements/) - Article.
+* [Python Program Lexical Structure](https://realpython.com/python-program-structure/) - Article.
+* [What Is the Walrus Operator in Python?](https://medium.com/better-programming/what-is-the-walrus-operator-in-python-5846eaeb9d95) - Article.
+* [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/) - Article.
+* [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/) - Article.
+* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
+* [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
+
+## Data types and Structures
 
 * [Basic Data Types in Python](https://realpython.com/python-data-types/) - Tutorial.
 * [Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3.6/tutorial/floatingpoint.html) - Article.
@@ -16,7 +27,6 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [float.as_integer_ratio()](https://docs.python.org/3.6/library/stdtypes.html#float.as_integer_ratio) - Docs.
 * [float.hex()](https://docs.python.org/3.6/library/stdtypes.html#float.hex) - Docs.
 * [Python Booleans: Optimize Your Code With Truth Values](https://realpython.com/python-boolean/) - Article.
-* [Variables in Python](https://realpython.com/python-variables/) - Article.
 * [namedtuple](https://pymotw.com/2/collections/namedtuple.html) - Article.
 * [Dictionaries in Python](https://realpython.com/python-dicts/) - Article.
 * [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) - Article.
@@ -50,9 +60,6 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 
 ## Others
 
-* [Python Program Lexical Structure](https://realpython.com/python-program-structure/) - Article.
-* [What Is the Walrus Operator in Python?](https://medium.com/better-programming/what-is-the-walrus-operator-in-python-5846eaeb9d95) - Article.
-* [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/) - Article.
 * [Merging two dicts using unpacking generalizations](https://youtu.be/Duexw08KaC8) - YouTube Video.
 * [Python `enumerate()`: Simplify Looping With Counters](https://realpython.com/python-enumerate/) - Article.
 * [Python `eval()`: Evaluate Expressions Dynamically](https://realpython.com/python-eval-function/) - Article.
@@ -61,6 +68,3 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Using the Python `zip()` Function for Parallel Iteration](https://realpython.com/python-zip-function/) - Article.
 * [Python `next()` Function | Iterate Over in Python Using next](https://www.pythonpool.com/python-next/) - Article.
 * [pprint — Data pretty printer](https://docs.python.org/3/library/pprint.html) - Article.
-* [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/) - Article.
-* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
-* [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
