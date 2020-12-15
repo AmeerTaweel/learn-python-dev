@@ -17,6 +17,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/) - Article.
 * [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
 * [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
+* [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/) - Article.
 
 ## Data types and Structures
 
