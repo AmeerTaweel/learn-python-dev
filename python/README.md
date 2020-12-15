@@ -18,6 +18,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [How to Use Python Lambda Functions](https://realpython.com/python-lambda/) - Article.
 * [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
 * [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/) - Article.
+* [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/) - Article.
 
 ## Data types and Structures
 
