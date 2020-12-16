@@ -22,6 +22,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/) - Article.
 * [Your Guide to the Python print() Function](https://realpython.com/python-print/) - Article.
 * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/) - Article.
+* [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/) - Article.
 
 ## Data types and Structures
 
