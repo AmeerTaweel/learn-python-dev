@@ -21,6 +21,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/) - Article.
 * [Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/) - Article.
 * [Your Guide to the Python print() Function](https://realpython.com/python-print/) - Article.
+* [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/) - Article.
 
 ## Data types and Structures
 
