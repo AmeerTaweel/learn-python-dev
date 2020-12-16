@@ -20,6 +20,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/) - Article.
 * [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/) - Article.
 * [Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/) - Article.
+* [Your Guide to the Python print() Function](https://realpython.com/python-print/) - Article.
 
 ## Data types and Structures
 
