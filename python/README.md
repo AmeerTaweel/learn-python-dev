@@ -19,6 +19,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/) - Article.
 * [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/) - Article.
 * [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/) - Article.
+* [Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/) - Article.
 
 ## Data types and Structures
 
