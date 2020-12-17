@@ -23,6 +23,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Your Guide to the Python print() Function](https://realpython.com/python-print/) - Article.
 * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/) - Article.
 * [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/) - Article.
+* [The Python return Statement: Usage and Best Practices](https://realpython.com/python-return-statement/) - Article.
 
 ## Data types and Structures
 
