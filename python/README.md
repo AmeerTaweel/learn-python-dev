@@ -24,6 +24,8 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/) - Article.
 * [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/) - Article.
 * [The Python return Statement: Usage and Best Practices](https://realpython.com/python-return-statement/) - Article.
+* [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/) - Article.
+* [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/) - Article.
 
 ## Data types and Structures
 
