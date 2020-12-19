@@ -27,6 +27,7 @@ Based on the [Introduction to Python learning path](https://realpython.com/learn
 * [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/) - Article.
 * [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/) - Article.
 * [Namespaces and Scope in Python](https://realpython.com/python-namespaces-scope/) - Article.
+* [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/) - Article.
 
 ## Data types and Structures
 
