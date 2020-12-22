@@ -11,3 +11,7 @@ Based on the [Perfect Your Python Development Setup](https://realpython.com/lear
 * [Python IDEs and Code Editors (Guide)](https://realpython.com/python-ides-code-editors-guide/) - Tutorial.
 * [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/) - Tutorial.
 * [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/) - Tutorial.
+
+## Environment
+
+* [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/) - Article.
