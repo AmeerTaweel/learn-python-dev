@@ -15,3 +15,4 @@ Based on the [Perfect Your Python Development Setup](https://realpython.com/lear
 ## Environment
 
 * [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/) - Article.
+* [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) - Article.
