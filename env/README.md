@@ -17,3 +17,4 @@ Based on the [Perfect Your Python Development Setup](https://realpython.com/lear
 * [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/) - Article.
 * [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) - Article.
 * [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/) - Article.
+* [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - Article.
