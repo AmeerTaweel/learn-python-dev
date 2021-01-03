@@ -18,3 +18,4 @@ Based on the [Perfect Your Python Development Setup](https://realpython.com/lear
 * [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) - Article.
 * [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/) - Article.
 * [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - Article.
+* [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/) - Article.
